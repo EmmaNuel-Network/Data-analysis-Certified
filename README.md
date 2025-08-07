@@ -8,4 +8,4 @@ El proceso de desarrollo fue organizado en lo que se pudo y el objetivo del repo
 
 ## Certificación
 Este análisis de datos forma parte de mi proceso de formación en Talento Tech.
-[📄 Ver certificado](docs/Certificado_Talento_Tech.pdf)
+docs/Certificado_Talento_Tech.pdf
